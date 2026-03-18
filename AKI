@@ -1,1 +1,1 @@
-print("Sikishaylu")
+game.Players.LocalPlayer:Kick("Opishgan skiy i skishganskiy")
